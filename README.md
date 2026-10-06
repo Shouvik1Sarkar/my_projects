@@ -11,12 +11,14 @@ Each project represents a step in my journey as a developer, where I apply conce
 Currently, this repository includes:
 
 - Backend
+- gen-ai
 
 ## Projects
 
 Projects are organized by category.
 
 📁 `backend/README.md`
+📁 `gen-ai-js/README.md`
 
 Each category contains a list of projects along with a brief description, the technologies used, and links to the source code.
 
